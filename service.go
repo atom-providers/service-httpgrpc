@@ -18,7 +18,7 @@ type Service struct {
 	Grpc     *grpcServer.Grpc
 	Initials []contracts.Initial        `group:"initials"`
 	Handlers []grpcServer.ServerService `group:"grpc_server_services"`
-	Routes   []contracts.Route          `group:"routes"`
+	Routes   []contracts.HttpRoute      `group:"routes"`
 }
 
 func Serve() error {
