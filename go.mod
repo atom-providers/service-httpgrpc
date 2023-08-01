@@ -6,7 +6,7 @@ require (
 	github.com/atom-providers/grpc-server v0.0.0-20230731090718-2eb0ee6d0413
 	github.com/atom-providers/http-fiber v0.0.0-20230801025528-68eda7def50b
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
-	github.com/rogeecn/atom v1.0.3
+	github.com/rogeecn/atom v1.0.4
 	github.com/spf13/cobra v1.7.0
 	go.uber.org/dig v1.17.0
 	golang.org/x/sync v0.3.0
@@ -49,12 +49,12 @@ require (
 	go.uber.org/atomic v1.11.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.24.0 // indirect
-	golang.org/x/net v0.11.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	google.golang.org/grpc v1.56.0 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gorm.io/gorm v1.25.2 // indirect
