@@ -6,7 +6,7 @@ require (
 	github.com/atom-providers/grpc-server v0.0.0-20230731090718-2eb0ee6d0413
 	github.com/atom-providers/http-fiber v0.0.0-20230801025528-68eda7def50b
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 	github.com/spf13/cobra v1.7.0
 	go.uber.org/dig v1.17.0
 	golang.org/x/sync v0.3.0

@@ -184,8 +184,8 @@ github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:
 github.com/rivo/uniseg v0.2.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
 github.com/rivo/uniseg v0.4.4 h1:8TfxU8dW6PdqD27gjM8MVNuicgxIjxpm4K7x4jp8sis=
 github.com/rivo/uniseg v0.4.4/go.mod h1:FN3SvrM+Zdj16jyLfmOkMNblXMcoc8DfTHruCPUcx88=
-github.com/rogeecn/atom v1.0.4 h1:GT9XL+jCCu7a4Fmu8/TsZBzSbdvF+zzsSz12E1ZBL5Q=
-github.com/rogeecn/atom v1.0.4/go.mod h1:uT3tmB8pALm1NaNRcd6pVy0IR/fO8H5eZrWrFlGmPoU=
+github.com/rogeecn/atom v1.0.6 h1:BxrIUe/ZsMObRvJpMz/cYgJpe6qRzVbQ+56YdnZULjI=
+github.com/rogeecn/atom v1.0.6/go.mod h1:8U9r0H8wfNtYA+mCjtQVgWHeXpV7i9Q5JSa7gQeojfo=
 github.com/rogeecn/atom-addons/providers/log v0.0.0-20230619103917-2f2bd26c1555 h1:GU1RDvtYJTCqU2OoS3cHxFU0CCMgjHqW7M84hwmFkr0=
 github.com/rogeecn/atom-addons/providers/log v0.0.0-20230619103917-2f2bd26c1555/go.mod h1:r1nIT0Ja5mZaPA0qiPBYmhHCImHg1Ja1kiks7uD3v5c=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
